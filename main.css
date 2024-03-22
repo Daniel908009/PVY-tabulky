@@ -53,4 +53,9 @@ h2 {
     border-bottom: 10px solid transparent;
     border-left: 10px solid rgb(92, 92, 92);
   }
-  
+  thead{
+  background-color: grey;
+  }
+tfoot{
+  background-color: grey;
+  }
